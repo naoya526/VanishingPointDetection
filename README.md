@@ -32,7 +32,7 @@ pip install opencv-python numpy scikit-learn
 2. Run the script:
 
 ```bash
-python main.py
+python vanishingpoint_improve.py
 ```
 
 3. Output images will be saved in the `output/` folder:
