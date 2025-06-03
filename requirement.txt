@@ -1,0 +1,7 @@
+# opencv
+
+pip install opencv-python
+
+#sklearn
+
+pip install scikit-learn
