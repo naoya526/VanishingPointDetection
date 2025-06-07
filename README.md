@@ -1,5 +1,6 @@
 # VanishingPointDetection
 Identify straight lines that appear to converge toward a common vanishing point
+![DetectedStraightLines](output/.jpg)
 
 # Vanishing Point Line Detector
 
